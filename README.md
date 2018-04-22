@@ -1,7 +1,6 @@
 # esx_bilkatalog
 
 Lägg i Resources & starta i server.cfg.
-
 ------------------
 - made by Stadus -
 -    StadusRP    -
